@@ -10,7 +10,7 @@
 				</ul>
 			</div>
 
-			<div class="three columns cubrimiento__footer">
+			<div class="three columns cubrimiento__footer offset-by-one">
 				<p><img src="images/icon-check.png" alt="">&nbsp;CUBRIMIENTOS EN LONA</p>
 				<div class="row padding-left">
 					<ul class="six columns menu__cubrimiento">
@@ -25,9 +25,21 @@
 					</ul>
 				</div>		
 			</div>
+
+			<div class="five columns offset-by-one">
+				<ul class="contacto__footer">
+					<li><img src="images/icon-map.png" alt="">Carrera 50 # 71 - 87 Doce de Octubre</li>
+					<li><a href="#"><img src="images/icon-tel.png" alt="">(571) 8050573 - 3112238427</a></li>
+					<li><a href="mailto:ventas@parasolesydisenos.com"><img src="images/icon-email.png" alt="">ventas@parasolesydisenos.com</a></li>
+				</ul>
+
+			</div>
 		</div>
-		
 	</footer>
+	<div class="linea__blanca__footer"></div>
+	<div class="copyright">
+		<p>&copy; PARASOLES Y DISEÑOS &nbsp;&nbsp;<span>HECHO CON <img width="8" src="images/corazon.png" alt=""> POR <a target="new"href="http://suwwweb.com/">suWWWeb S.A.S</a></span></p>
+	</div>
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
