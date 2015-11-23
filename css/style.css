@@ -49,3 +49,43 @@
 .linea__naranja{
 	border-top: 2px solid #f58422;
 }
+
+
+
+
+
+footer{
+	background: #252525;
+	padding: 20px 0px;
+	color: #ffffff;
+}
+.menu__footer li{
+	list-style: none;
+	font-size: 14px;
+	margin-bottom: 0px;
+}
+.menu__footer li a{
+	font-size: 14px;
+	text-decoration: none;
+	color: #ffffff;
+}
+.cubrimiento__footer p{
+	margin-bottom: 0px;
+}
+.cubrimiento__footer p, .cubrimiento__footer img{
+	vertical-align: middle;
+}
+ul.menu__cubrimiento{
+	list-style-image:url(../images/icon-disc.png);
+}
+.menu__cubrimiento li{
+	margin-bottom: 0px;
+}
+.menu__cubrimiento li a{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 14px;
+}
+.padding-left{
+	padding-left: 30px;
+}
