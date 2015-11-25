@@ -52,6 +52,45 @@
 
 .page{
 	color: #808180;
+	background:url(../images/debut_light.png);
+}
+
+.product__home{
+	text-align: center;
+	font-family: "fibel_suedregular";
+}
+.product__home img{
+	border: solid 1px #414141;
+	padding: 5px;
+	margin-bottom: 10px;
+}
+.product__home h3{
+	margin-bottom: 5px;	
+	font-size: 24px;
+	color: #414141;
+	font-weight: normal;
+	letter-spacing: .5px;
+}
+.boton__home{
+	text-align: center;
+}
+.boton__home li{
+	min-height: 26px;
+	margin-bottom: 3px;
+	list-style: none;
+	max-width: 100%;
+	background: #ea8821;
+}
+.boton__home li:first-child{
+	background: #ea8821;
+}
+.boton__home li:nth-child(2){
+	background: #e9680a;
+}
+.boton__home li a{
+	max-width: 100%;
+	text-decoration: none;
+	color: #ffffff;
 }
 .bloque__100{
 	padding: 20px 0px;
