@@ -1,5 +1,4 @@
 
-
 	<footer>
 		<div class="container">
 			<div class="two columns">
@@ -43,5 +42,31 @@
 
 <!-- End Document
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="js/owl.carousel.js"></script>
+
+  <script>
+  	$(document).ready(function() {
+ 
+	  $("#owl-demo").owlCarousel({
+	 
+	      navigation : false, // Show next and prev buttons
+	      slideSpeed : 300,
+	      paginationSpeed : 400,
+	      singleItem:true,
+	      pagination:false,
+	      autoPlay:true
+	 
+	      // "singleItem:true" is a shortcut for:
+	      // items : 1, 
+	      // itemsDesktop : false,
+	      // itemsDesktopSmall : false,
+	      // itemsTablet: false,
+	      // itemsMobile : false
+	 
+	  });
+	 
+	});
+  </script>
 </body>
 </html>

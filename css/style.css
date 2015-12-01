@@ -1,3 +1,6 @@
+.strong{
+	color: #f2f2f2;
+}
 .header{
 	padding-top: 20px;
 }
@@ -54,14 +57,34 @@
 	color: #808180;
 	background:url(../images/debut_light.png);
 }
-
+.page p{
+	margin-bottom: 7px;
+}
+.page h2{
+	color: #232323;
+	font-size: 24px;
+	margin-bottom: 0px;
+	font-weight: bold;
+}
+.page hr{
+	margin: 10px 0px;
+}
+.page span{
+	color: #f59650;
+	font-weight: bold;
+	font-size: 18px;
+}
+.quienes-somos{
+	padding: 20px 0px;
+}
 .product__home{
 	text-align: center;
 	font-family: "fibel_suedregular";
 }
 .product__home img{
+	background: #ffffff;
 	border: solid 1px #414141;
-	padding: 5px;
+	padding: 7px;
 	margin-bottom: 10px;
 }
 .product__home h3{
@@ -75,8 +98,8 @@
 	text-align: center;
 }
 .boton__home li{
-	min-height: 26px;
-	margin-bottom: 3px;
+	min-height: 32px;
+	margin-bottom: 5px;
 	list-style: none;
 	max-width: 100%;
 	background: #ea8821;
@@ -87,7 +110,20 @@
 .boton__home li:nth-child(2){
 	background: #e9680a;
 }
+.boton__home li:nth-child(3){
+	background: #ea6c21;
+}
+.boton__home li:nth-child(4){
+	background: #ea5a21;
+}
+.boton__home li:nth-child(5){
+	background: #ea5a21;
+}
+.boton__home li:nth-child(6){
+	background: #ea4621;
+}
 .boton__home li a{
+	margin-top: 15px;
 	max-width: 100%;
 	text-decoration: none;
 	color: #ffffff;
@@ -106,7 +142,72 @@
 .linea__gris{
 	border-bottom: 1.5px solid #d8dade;
 }
-
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+#owl-demo {
+	margin-bottom: 20px;
+	border-right: 5px solid #e3e4e8;
+	border-bottom: 5px solid #e3e4e8;
+	border-left: 5px solid #e3e4e8;
+}
+.cubrimiento__lona{
+	font-family: "hasteristicolight";
+	background: url(../images/cubrimiento.png);
+	background-repeat: no-repeat;
+	min-height: 43px;
+	position: relative;
+	top: -40px;
+}
+.cubrimiento__lona h3{
+	color: #ffffff;
+	font-size: 24px;
+	letter-spacing: 1px;
+	font-weight: bold;
+	padding-top: 7px;
+	padding-left: 10px;
+	margin-bottom: 0px;
+}
+.border__image{
+	background: #ffffff;
+	border: solid 1px #e3e4e8;
+	padding: 7px;
+}
+.listas__quienes{
+	margin-bottom: 0px;
+}
+.listas__quienes li{
+	color: #000000;
+	font-weight: #000000;
+}
+.listas__quienes{
+	list-style-image:url(../images/icon-circle.png);
+}
+.mision__vision{
+	margin-top: 20px;
+	background: rgba(255,255,255,0.9);
+	padding: 20px
+}
+.mision__vision p{
+	text-align: justify;
+	line-height: 20px;
+}
+.mision__vision h2{
+	border-bottom: 5px solid #f58422;
+	width: 80px;
+}
+.quienes--valores{
+	margin-top: 20px;
+}
+.quienes--valores li{
+	max-width: 100%;
+	display: inline-block;
+}
+.quienes--valores li img{
+	max-width: 100%;
+}
 
 footer{
 	background: #252525;

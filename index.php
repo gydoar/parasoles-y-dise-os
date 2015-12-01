@@ -4,6 +4,14 @@
 
     <div class="container">
 
+      <div id="owl-demo" class="owl-carousel owl-theme">
+        <div class="item"><img src="images/banner/banner1.jpg" alt="Banner"></div>
+        <div class="item"><img src="images/banner/banner2.jpg" alt="Banner"></div>
+        <div class="item"><img src="images/banner/banner3.jpg" alt="Banner"></div>     
+      </div>
+
+      <div class="cubrimiento__lona"><h3>CUBRIMIENTOS EN LONA</h3></div>
+
       <div class="row">
         <div class="three columns product__home">
           <img class="twelve columns" src="images/kioscos/01.jpg" alt="">
@@ -11,12 +19,12 @@
           <a class="button" href="#">VER MÁS</a>
         </div>
          <div class="three columns product__home">
-          <img class="twelve columns" src="images/kioscos/01.jpg" alt="">
+          <img class="twelve columns" src="images/kioscos/02.jpg" alt="">
           <h3>CARPAS NOMBRE</h3>
           <a class="button" href="#">VER MÁS</a>
         </div>
         <div class="three columns product__home">
-          <img class="twelve columns" src="images/kioscos/01.jpg" alt="">
+          <img class="twelve columns" src="images/kioscos/03.jpg" alt="">
           <h3>CARPAS NOMBRE</h3>
           <a class="button" href="#">VER MÁS</a>
         </div>

@@ -21,6 +21,8 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/skeleton.css">
+  <link rel="stylesheet" href="css/owl.carousel.css">
+  <link rel="stylesheet" href="css/owl.theme.css">
   <link rel="stylesheet" href="css/style.css">
 
   <!-- Favicon
@@ -35,7 +37,7 @@
   <div class="container header">
     <div class="row">
       <div class="four columns">
-        <a href="#"><img class="twelve columns" width="318" src="images/logo.png" alt=""></a>
+        <h1><a href="#"><img class="twelve columns" width="318" src="images/logo.png" alt="Parasoles y diseños"></a></h1>
       </div>
 
       <div class="seven columns offset-by-one tel__header">
