@@ -12,30 +12,130 @@
 
       <div class="cubrimiento__lona"><h3>CUBRIMIENTOS EN LONA</h3></div>
 
-      <div class="row">
-        <div class="three columns product__home">
-          <img class="twelve columns" src="images/inicio/01.jpg" alt="">
-          <h3>CARPAS NOMBRE</h3>
-          <a class="button" href="#">VER MÁS</a>
-        </div>
-         <div class="three columns product__home">
-          <img class="twelve columns" src="images/inicio/02.jpg" alt="">
-          <h3>CARPAS NOMBRE</h3>
-          <a class="button" href="#">VER MÁS</a>
-        </div>
-        <div class="three columns product__home">
-          <img class="twelve columns" src="images/inicio/03.jpg" alt="">
-          <h3>CARPAS NOMBRE</h3>
-          <a class="button" href="#">VER MÁS</a>
-        </div>
+      <div class="row" id="tabs">
+        <!-- Kioscos -->
+          <div id="tabs-1">
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/kioscos/01.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+             <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/kioscos/02.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/kioscos/03.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+          </div>
+
+        <!-- Membranas -->
+          <div id="tabs-2">
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/membranas/01.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+             <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/membranas/02.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/membranas/03.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+          </div>
+
+         <!-- Parasoles -->
+          <div id="tabs-3">
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/parasoles/01.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+             <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/parasoles/02.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/parasoles/03.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+          </div>
+
+        <!-- Petalos -->
+          <div id="tabs-4">
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/petalos/01.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+             <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/petalos/02.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/petalos/03.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+          </div>
+
+        <!-- Sombrillas -->
+          <div id="tabs-5">
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/sombrillas/01.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+             <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/sombrillas/02.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/sombrillas/03.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+          </div>
+
+        <!-- Toldos -->
+          <div id="tabs-6">
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/toldos/01.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+             <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/toldos/02.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+            <div class="three columns product__home">
+              <img class="twelve columns" src="images/inicio/toldos/03.jpg" alt="">
+              <h3>CARPAS NOMBRE</h3>
+              <a class="button" href="#">VER MÁS</a>
+            </div>
+          </div>
+            
+
         <div class="three columns">
           <ul class="boton__home">
-            <li><a href="#">KIOSKOS</a></li>
-            <li><a href="#">MEMBRANAS</a></li>
-            <li><a href="#">PARASOLES</a></li>
-            <li><a href="#">PÉTALOS</a></li>
-            <li><a href="#">SOMBRILLAS</a></li>
-            <li><a href="#">TOLDOS</a></li>
+            <li><a href="#tabs-1">KIOSKOS</a></li>
+            <li><a href="#tabs-2">MEMBRANAS</a></li>
+            <li><a href="#tabs-3">PARASOLES</a></li>
+            <li><a href="#tabs-4">PÉTALOS</a></li>
+            <li><a href="#tabs-5">SOMBRILLAS</a></li>
+            <li><a href="#tabs-6">TOLDOS</a></li>
           </ul>
         </div>
       </div>
