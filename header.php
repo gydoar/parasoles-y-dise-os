@@ -40,7 +40,7 @@
     <div class="container header">
       <div class="row">
         <div class="four columns">
-          <h1><a href="#"><img class="twelve columns" width="318" src="images/logo.png" alt="Parasoles y diseños"></a></h1>
+          <h1><a href="/"><img class="twelve columns" width="318" src="images/logo.png" alt="Parasoles y diseños"></a></h1>
         </div>
 
         <div class="seven columns offset-by-one tel__header">
@@ -51,19 +51,19 @@
           <div class="border__gris"></div>
           <nav class="menu__header">
             <ul>
-              <li><a href="#">INICIO</a></li>
-              <li><a href="#">QUIENES SOMOS</a></li>
+              <li><a href="/">INICIO</a></li>
+              <li><a href="/quienes-somos.php">QUIENES SOMOS</a></li>
               <li><a href="#"><img src="images/icon-check.png" alt="">&nbsp;CUBRIMIENTO EN LONA <img src="images/icon-abajo.png" alt=""></a>
                 <ul>
-                  <li><a href="#">KIOSCOS</a></li>
-                  <li><a href="#">MEMBRANAS</a></li>
-                  <li><a href="#">PARASOLES</a></li>
-                  <li><a href="#">PÉTALOS</a></li>
-                  <li><a href="#">SOMBRILLAS</a></li>
-                  <li><a href="#">TOLDOS</a></li>
+                  <li><a href="/kioscos.php">KIOSCOS</a></li>
+                  <li><a href="/membranas.php">MEMBRANAS</a></li>
+                  <li><a href="/parasoles.php">PARASOLES</a></li>
+                  <li><a href="/petalos.php">PÉTALOS</a></li>
+                  <li><a href="/sombrillas.php">SOMBRILLAS</a></li>
+                  <li><a href="/toldos.php">TOLDOS</a></li>
                 </ul>
               </li>
-              <li><a href="#">CONTÁCTENOS</a></li>
+              <li><a href="/contacto.php">CONTÁCTENOS</a></li>
             </ul>
           </nav>
         </div>

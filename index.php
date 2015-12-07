@@ -18,17 +18,17 @@
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/kioscos/01.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/kioscos.php">VER MÁS</a>
             </div>
              <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/kioscos/02.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/kioscos.php">VER MÁS</a>
             </div>
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/kioscos/03.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/kioscos.php">VER MÁS</a>
             </div>
           </div>
 
@@ -37,17 +37,17 @@
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/membranas/01.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/membranas.php">VER MÁS</a>
             </div>
              <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/membranas/02.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/membranas.php">VER MÁS</a>
             </div>
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/membranas/03.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/membranas.php">VER MÁS</a>
             </div>
           </div>
 
@@ -56,17 +56,17 @@
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/parasoles/01.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/parasoles.php">VER MÁS</a>
             </div>
              <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/parasoles/02.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/parasoles.php">VER MÁS</a>
             </div>
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/parasoles/03.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/parasoles.php">VER MÁS</a>
             </div>
           </div>
 
@@ -75,17 +75,17 @@
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/petalos/01.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/petalos.php">VER MÁS</a>
             </div>
              <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/petalos/02.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/petalos.php">VER MÁS</a>
             </div>
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/petalos/03.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/petalos.php">VER MÁS</a>
             </div>
           </div>
 
@@ -94,17 +94,17 @@
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/sombrillas/01.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/sombrillas.php">VER MÁS</a>
             </div>
              <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/sombrillas/02.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/sombrillas.php">VER MÁS</a>
             </div>
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/sombrillas/03.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/sombrillas.php">VER MÁS</a>
             </div>
           </div>
 
@@ -113,17 +113,17 @@
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/toldos/01.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/toldos.php">VER MÁS</a>
             </div>
              <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/toldos/02.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/toldos.php">VER MÁS</a>
             </div>
             <div class="three columns product__home">
               <img class="twelve columns" src="images/inicio/toldos/03.jpg" alt="">
               <h3>CARPAS NOMBRE</h3>
-              <a class="button" href="#">VER MÁS</a>
+              <a class="button" href="/toldos.php">VER MÁS</a>
             </div>
           </div>
             
@@ -152,7 +152,7 @@
         </div>
 
         <div class="three columns padding-top">
-          <a class="button button-primary" href="#">QUIENES SOMOS</a>
+          <a class="button button-primary" href="/quienes-somos.php">QUIENES SOMOS</a>
         </div> 
       </div>
     </div>
