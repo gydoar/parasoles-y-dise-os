@@ -42,13 +42,35 @@
 	font-weight: bold;
 	padding: 5px 10px;
 }
-.menu__header li a:hover{
+.menu__header ul li a:hover{
 	background: #f58422;
 	color: #fff;
 }
-.menu__header li:nth-child(1),.menu__header li:nth-child(2),.menu__header li:nth-child(3){
+.menu__header ul li:nth-child(1),.menu__header ul li:nth-child(2),.menu__header ul li:nth-child(3){
 	border-right: 1.5px solid #d8dade;
 }
+.menu__header ul li ul{
+	display: none;
+	position: absolute;
+	min-height: 60px;
+	z-index: 100;
+	background: rgba(255,255,255,0.9);
+	color: #ffffff;
+	right: 180px;
+	max-width: 200px;
+	top: 103px;
+	padding: 5px;
+	text-align: center;
+}
+.menu__header ul li ul li a{
+	color: #ffffff;
+	background: #000000;
+}
+.menu__header ul li:hover > ul{
+	display: block;
+}
+
+
 .linea__naranja{
 	border-top: 2px solid #f58422;
 }
@@ -319,5 +341,5 @@ ul.menu__cubrimiento{
 }
 .page__producto a.button{
 	float: right;
-
 }
+

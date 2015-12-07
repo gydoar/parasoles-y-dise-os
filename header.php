@@ -45,13 +45,24 @@
 
         <div class="seven columns offset-by-one tel__header">
           <a href="#">(571) 8050573 - 3112238427</a>
-          <a href="#"><img class="btn-nuestros-datos" width="230" src="images/nuestros-datos.png" alt=""></a>
+          <a class="nuestros-datos" href="#">
+            <img class="btn-nuestros-datos" width="230" src="images/nuestros-datos.png" alt="">
+          </a>
           <div class="border__gris"></div>
           <nav class="menu__header">
             <ul>
               <li><a href="#">INICIO</a></li>
               <li><a href="#">QUIENES SOMOS</a></li>
-              <li><a href="#"><img src="images/icon-check.png" alt="">&nbsp;CUBRIMIENTO EN LONA <img src="images/icon-abajo.png" alt=""></a></li>
+              <li><a href="#"><img src="images/icon-check.png" alt="">&nbsp;CUBRIMIENTO EN LONA <img src="images/icon-abajo.png" alt=""></a>
+                <ul>
+                  <li><a href="#">KIOSCOS</a></li>
+                  <li><a href="#">MEMBRANAS</a></li>
+                  <li><a href="#">PARASOLES</a></li>
+                  <li><a href="#">PÉTALOS</a></li>
+                  <li><a href="#">SOMBRILLAS</a></li>
+                  <li><a href="#">TOLDOS</a></li>
+                </ul>
+              </li>
               <li><a href="#">CONTÁCTENOS</a></li>
             </ul>
           </nav>
