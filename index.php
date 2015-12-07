@@ -14,17 +14,17 @@
 
       <div class="row">
         <div class="three columns product__home">
-          <img class="twelve columns" src="images/kioscos/01.jpg" alt="">
+          <img class="twelve columns" src="images/inicio/01.jpg" alt="">
           <h3>CARPAS NOMBRE</h3>
           <a class="button" href="#">VER MÁS</a>
         </div>
          <div class="three columns product__home">
-          <img class="twelve columns" src="images/kioscos/02.jpg" alt="">
+          <img class="twelve columns" src="images/inicio/02.jpg" alt="">
           <h3>CARPAS NOMBRE</h3>
           <a class="button" href="#">VER MÁS</a>
         </div>
         <div class="three columns product__home">
-          <img class="twelve columns" src="images/kioscos/03.jpg" alt="">
+          <img class="twelve columns" src="images/inicio/03.jpg" alt="">
           <h3>CARPAS NOMBRE</h3>
           <a class="button" href="#">VER MÁS</a>
         </div>

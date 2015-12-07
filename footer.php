@@ -44,6 +44,7 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="js/owl.carousel.js"></script>
+  <script src="js/jquery.fancybox.js"></script>
 
   <script>
   	$(document).ready(function() {
@@ -68,5 +69,35 @@
 	 
 	});
   </script>
+
+  <script>
+  	$(document).ready(function() {
+ 
+	  $("#owl-thumb").owlCarousel({
+	 
+	      autoPlay: 2000, //Set AutoPlay to 3 seconds
+	 	  pagination:false,
+	      items : 4,
+	      itemsDesktop : [1199,3],
+	      itemsDesktopSmall : [979,3]
+	 
+	  });
+	 
+	});
+  </script>
+
+  <script>
+
+  $(document).ready(function() {
+			/*
+			 *  Simple image gallery. Uses default settings
+			 */
+
+			$('.fancybox').fancybox();
+
+	});
+
+  </script>
+
 </body>
 </html>
