@@ -76,22 +76,27 @@
 }
 
 .page{
+	padding: 20px 0px;
 	color: #808180;
 	background:url(../images/debut_light.png);
 }
-.page p{
+.page1{
+	color: #808180;
+	background:url(../images/debut_light.png);
+}
+.page1 p, .page p{
 	margin-bottom: 7px;
 }
-.page h2{
+.page1 h2, .page h2{
 	color: #232323;
 	font-size: 24px;
 	margin-bottom: 0px;
 	font-weight: bold;
 }
-.page hr{
+.page1 hr,.page hr{
 	margin: 10px 0px;
 }
-.page span{
+.page1 span, .page span{
 	color: #f59650;
 	font-weight: bold;
 	font-size: 18px;

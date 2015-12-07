@@ -1,6 +1,6 @@
 <?php include "header.php"; ?>
 
-  <div class="page">
+  <div class="page1">
 
     <div class="container">
 
