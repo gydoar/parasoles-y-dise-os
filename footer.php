@@ -29,7 +29,7 @@
 				<ul class="contacto__footer">
 					<li><img src="images/icon-map.png" alt="">Carrera 50 # 71 - 87 Doce de Octubre</li>
 					<li><a href="#"><img src="images/icon-tel.png" alt="">(571) 8050573 - 3112238427</a></li>
-					<li><a href="mailto:ventas@parasolesydisenos.com"><img src="images/icon-email.png" alt="">ventas@parasolesydisenos.com</a></li>
+					<li><a href="mailto:ventas@parasolesydisenos.co"><img src="images/icon-email.png" alt="">ventas@parasolesydisenos.co</a></li>
 				</ul>
 
 			</div>

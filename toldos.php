@@ -14,6 +14,7 @@
 
 				<div class="six columns page__producto">
 					<h3>TOLDOS</h3>
+					<hr>
 					<p>Este tipo de toldos se adapta a todos los espacios, terrazas balcones, jardines y negocios; estos pueden ser mecánicos o eléctricos con sensor de viento o control remoto; sin límites en las longitudes deseadas, desde 1.50 mts hasta 4 mta de proyección.
 					</p>
 					<p>

@@ -14,6 +14,7 @@
 
 				<div class="six columns page__producto">
 					<h3>MEMBRANAS</h3>
+					<hr>
 					<p>Las carpas tensadas han sido diseñadas para agrandar sus espacios y ambientes, protegiéndolos del sol y la lluvia, con los mejores diseños de arquitectura moderna según su necesidad.</p>
 					<br>
 					<div id="owl-thumb">

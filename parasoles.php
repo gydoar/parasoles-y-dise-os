@@ -14,6 +14,7 @@
 
 				<div class="six columns page__producto">
 					<h3>PARASOLES</h3>
+					<hr>
 					<p>Este Tipo De Parasoles Se Permite Fabricar En Cualquier Forma Y Medidas Ya Que Todas Las Piezas De Ensamble Se Adaptan A Cualquier Espacio Y Medida; Este Producto Es Ideal Para La Proteccion De Ventanas, Terrazas Y Negocios.</p>
 					<br>
 					<div id="owl-thumb">

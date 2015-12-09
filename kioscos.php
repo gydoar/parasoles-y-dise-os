@@ -14,6 +14,7 @@
 
 				<div class="six columns page__producto">
 					<h3>KIOSCOS</h3>
+					<hr>
 					<p>Carpas confeccionadas con la más alta técnica y calidad en lonas unidas por medio de electro sellado para evitar filtraciones de agua; estructuras en tubería de diferentes medidas, diámetros y calibres en hierro, aluminio y madera, completamente desarmables para fácil manejo.</p>
 					<br>
 					<div id="owl-thumb">

@@ -93,8 +93,14 @@
 	margin-bottom: 0px;
 	font-weight: bold;
 }
+.page h3{
+	margin-bottom: 0px;
+	border-bottom: 4px solid #f58422;
+	max-width: 140px;
+}
 .page1 hr,.page hr{
-	margin: 10px 0px;
+	margin-top: 2px;
+	margin-bottom: 20px;
 }
 .page1 span, .page span{
 	color: #f59650;
