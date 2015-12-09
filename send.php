@@ -1,7 +1,7 @@
 <?
 
 	// Replace this with your own email address
-	$to="soporte@suwwweb.com";
+	$to="ventas@parasolesydisenos.co";
 
 	// Extract form contents
 	$name = $_POST['nombre'];
@@ -28,10 +28,10 @@
 					'Reply-To: '.$email.'' . "\r\n" .
 					'X-Mailer: PHP/' . phpversion();
 		$email_subject = "Nuevo mensaje desde Parasoles y disenos: $email";
-		$message="Nombre: $name \n\nEmail: $email \n\nTel: $tel \n\nAsunto: $asunto \n\nComentarios:\n\n $comentarios";
+		$message="Nombre: $name \n\nEmail: $email \n\nTel: $teléfono \n\nComentarios: $comentarios";
 	
 		mail($to, $email_subject, $message, $headers);
-		header('Location: /gracias.html');	
+		header('Location: /gracias.php');	
 	} else {
 		echo $errors;
 	}
