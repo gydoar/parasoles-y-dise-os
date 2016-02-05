@@ -52,18 +52,18 @@
           <nav class="menu__header">
             <ul>
               <li><a href="/">INICIO</a></li>
-              <li><a href="/quienes-somos.php">QUIENES SOMOS</a></li>
+              <li><a href="/quienes-somos">QUIENES SOMOS</a></li>
               <li><a href="#"><img src="images/icon-check.png" alt="">&nbsp;CUBRIMIENTO EN LONA <img src="images/icon-abajo.png" alt=""></a>
                 <ul>
-                  <li><a href="/kioscos.php">KIOSCOS</a></li>
-                  <li><a href="/membranas.php">MEMBRANAS</a></li>
-                  <li><a href="/parasoles.php">PARASOLES</a></li>
-                  <li><a href="/petalos.php">PÉTALOS</a></li>
-                  <li><a href="/sombrillas.php">SOMBRILLAS</a></li>
-                  <li><a href="/toldos.php">TOLDOS</a></li>
+                  <li><a href="/kioscos">KIOSCOS</a></li>
+                  <li><a href="/membranas">MEMBRANAS</a></li>
+                  <li><a href="/parasoles">PARASOLES</a></li>
+                  <li><a href="/petalos">PÉTALOS</a></li>
+                  <li><a href="/sombrillas">SOMBRILLAS</a></li>
+                  <li><a href="/toldos">TOLDOS</a></li>
                 </ul>
               </li>
-              <li><a href="/contacto.php">CONTÁCTENOS</a></li>
+              <li><a href="/contacto">CONTÁCTENOS</a></li>
             </ul>
           </nav>
         </div>

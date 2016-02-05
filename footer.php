@@ -4,8 +4,8 @@
 			<div class="two columns">
 				<ul class="menu__footer">
 					<li><a href="/">INICIO</a></li>
-					<li><a href="/quienes-somos.php">QUIENES SOMOS</a></li>
-					<li><a href="/contacto.php">CONTÁCTENOS</a></li>
+					<li><a href="/quienes-somos">QUIENES SOMOS</a></li>
+					<li><a href="/contacto">CONTÁCTENOS</a></li>
 				</ul>
 			</div>
 
@@ -13,14 +13,14 @@
 				<p><img src="images/icon-check.png" alt="">&nbsp;CUBRIMIENTOS EN LONA</p>
 				<div class="row padding-left">
 					<ul class="six columns menu__cubrimiento">
-						<li><a href="/kioscos.php">Kioscos</a></li>
-						<li><a href="/membranas.php">Membranas</a></li>
-						<li><a href="/parasoles.php">Parasoles</a></li>
+						<li><a href="/kioscos">Kioscos</a></li>
+						<li><a href="/membranas">Membranas</a></li>
+						<li><a href="/parasoles">Parasoles</a></li>
 					</ul>
 					<ul class="six columns menu__cubrimiento">
-						<li><a href="/petalos.php">Pétalos</a></li>
-						<li><a href="/sombrillas.php">Sombrillas</a></li>
-						<li><a href="/toldos.php">Toldos</a></li>
+						<li><a href="/petalos">Pétalos</a></li>
+						<li><a href="/sombrillas">Sombrillas</a></li>
+						<li><a href="/toldos">Toldos</a></li>
 					</ul>
 				</div>		
 			</div>

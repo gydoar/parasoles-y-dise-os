@@ -27,7 +27,7 @@
 
 					</div>
 					<br>
-					<a class="button button-primary" href="/contacto.php">COTIZAR ESTE PRODUCTO</a>
+					<a class="button button-primary" href="/contacto">COTIZAR ESTE PRODUCTO</a>
 					
 				</div>
 			</div>
